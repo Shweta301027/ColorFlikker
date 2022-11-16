@@ -1,0 +1,14 @@
+h3{
+    text-align: center;
+}
+#btn{
+    margin: 250px 550px ;
+    padding: 10px;
+    border-radius: 10px ;
+    font-weight: bold;
+    cursor: pointer;
+}
+#btn:hover{
+    color: rgb(243, 13, 48);
+    border-color:blueviolet;
+}
